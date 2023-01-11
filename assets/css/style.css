@@ -1,19 +1,26 @@
 
-*{	
-	font-family: 'Sofia Sans Condensed', sans-serif;
+*{
+	font-family: 'Libre Baskerville', serif;
 	box-sizing: border-box;
 	margin: 0;
 	padding: 0;
 }
 
-h1,
-h2,
-h3,
-h4,
-h5,
+p{
+	text-align: justify;
+}
+
+h1, h2, h3, h4, h5{
+	font-family: 'Odor Mean Chey', serif;
+	font-weight: bold;
+	letter-spacing: 2px;
+	text-shadow: 1px 1px black;
+}
+
 h6{
-  font-family: 'Domine', serif;
-  font-weight: bold;
+	font-family: 'Raleway', sans-serif;
+	font-weight: bold;
+	letter-spacing: 1px;
 }
 
 .brand-name{
