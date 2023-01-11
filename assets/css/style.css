@@ -64,12 +64,12 @@ hr.line{
 }
 
 #bg-project{
-	height: 100vh;
+	min-height: 100vh;
 }
 
 #bg-contact{
 	background-color: #F8F8FF;
-	height: 100vh;
+	min-height: 100vh;
 }
 
 #bg-footer{
