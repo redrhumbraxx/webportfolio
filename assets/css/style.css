@@ -1,6 +1,6 @@
 
-*{
-	font-family: 'Domine', serif;
+*{	
+	font-family: 'Sofia Sans Condensed', sans-serif;
 	box-sizing: border-box;
 	margin: 0;
 	padding: 0;
@@ -11,8 +11,9 @@ h2,
 h3,
 h4,
 h5,
-h6 {
-  font-family: "Raleway", sans-serif;
+h6{
+  font-family: 'Domine', serif;
+  font-weight: bold;
 }
 
 .brand-name{
