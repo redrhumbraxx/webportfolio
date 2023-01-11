@@ -1,0 +1,156 @@
+*{
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	font-family: 'Open Sans', sans-serif;
+	position: static;
+	height: 100vh;
+}
+
+li{
+	display: inline-block;
+	padding: 10px;
+}
+
+nav{	
+	position: sticky;
+	top: 0px;
+	z-index: 1;
+}
+
+.nav-logo{
+	background-color: white;
+	margin-top: 0.4rem;
+	margin-left: 10rem;
+	float: left;
+}
+
+.right-nav{
+	background-color: white;
+	padding-right: 10rem;
+	text-align: right;
+}
+
+.nav{
+	margin-right: 1rem;
+}
+
+.tuitt-button{
+	background-color: #c2195b;
+	font-weight: bold;
+	color: white;
+	font-size: 1rem;
+	padding: 0.8rem;
+	padding-right: 1.5rem;
+	padding-left: 1.5rem;
+	border-radius: 25px;
+	border: 0;
+}
+
+#bg-image{
+	background-image: url(https://d3ojsfl21hfxhc.cloudfront.net/assets/zuitt/programdetails2_w.jpg);
+	min-height: 50vh;
+	background-repeat: no-repeat;
+	background-size: 100vw;
+	background-position: center;
+	background-color: scroll;
+}
+
+.front-bg{
+	background-color: rgba(0,0,0,0.5);
+	color: white;
+	min-height: 50vh;
+}
+
+.container{
+	text-align: right;
+}
+
+.title{
+	font-family: 'Zilla Slab', serif;
+	padding-top: 2rem;
+	font-size: 40px;
+	position: relative;
+	width: 30%;
+	left: 58%;
+}
+
+.subtitle{
+	padding-top: 2rem;
+	width: 30%;
+	position: relative;
+	left: 58%;
+}
+
+.apply-button{
+	background-color: #c2195b;
+	font-weight: bold;
+	color: white;
+	font-size: 1rem;
+	padding: 1rem;
+	border-radius: 25px;
+	border: 0;
+	padding-left: 2rem;
+	padding-right: 2rem;
+	margin-top: 3rem;
+	margin-right: 12rem;
+}
+
+.intro{
+	text-align: center;
+	min-height: 40vh;
+}
+
+.title-2{
+	font-family: 'Zilla Slab', serif;
+	padding-top: 5rem;
+	font-size: 32px;
+
+}
+
+.intro-description{
+	padding-top: 5rem;
+	text-align: left;
+	position: relative;
+	width: 60%;
+	left: 20%;
+}
+
+.pre-footer{
+	background-color: #f7fbfb;
+	text-align: center;
+	min-height: 50vh;
+}
+
+.book-button{
+	font-weight: bold;
+	color: white;
+	font-size: 1rem;
+	padding: 1rem;
+	padding-left: 2rem;
+	padding-right: 2rem;
+	border-radius: 25px;
+	border: 0;
+	background-color: #336589;
+	margin-top: 2rem;
+}
+
+.prefooter-description{
+	padding-top: 3rem;
+	position: relative;
+	width: 60%;
+	left: 20%;
+}	
+
+span{
+	margin: 0.5rem;
+}
+
+
+footer{
+	padding: 0.5rem;
+	text-align: center;
+}
