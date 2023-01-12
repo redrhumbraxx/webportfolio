@@ -10,14 +10,14 @@ p{
 	text-align: justify;
 }
 
-h1, h2, h3, h4, h5{
+h1, h2, h3, h4{
 	font-family: 'Odor Mean Chey', serif;
 	font-weight: bold;
 	letter-spacing: 2px;
 	text-shadow: 1px 1px black;
 }
 
-h6{
+h5, h6{
 	font-family: 'Raleway', sans-serif;
 	font-weight: bold;
 	letter-spacing: 1px;
@@ -92,4 +92,9 @@ hr.line{
 
 ul{
 	list-style-type: none;
+}
+
+
+.modal-message{
+	text-align: center;
 }
