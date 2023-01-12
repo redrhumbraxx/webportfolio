@@ -74,6 +74,13 @@ hr.line{
 	min-height: 100vh;
 }
 
+.card-margin{
+	margin-top: 25px;
+	margin-bottom: 25px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
 #bg-contact{
 	background-color: #F8F8FF;
 	min-height: 100vh;
