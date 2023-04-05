@@ -115,6 +115,11 @@ ul{
 	list-style-type: none;
 }
 
+.input-position{
+	position: absolute;
+	right: 17px;
+	color: red;
+}
 
 .modal-message{
 	text-align: center;
